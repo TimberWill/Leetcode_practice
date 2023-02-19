@@ -1,2 +1,2 @@
 # Hello-world
-come on
+leetcode practice :)
