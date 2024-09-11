@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/leetcode/Day6.java" afterDir="false" />
+    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="算法">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/interview/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/interview/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/leetcode/array/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/leetcode/slidewindow/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/nowcoder/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/nowcoder/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/whl/leetcode/Day6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/whl/leetcode/Day6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whl/leetcode/Day1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/whl/leetcode/Day1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whl/leetcode/Day3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/whl/leetcode/Day3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whl/leetcode/Day4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/whl/leetcode/Day4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/whl/leetcode/Day5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/whl/leetcode/Day5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,38 +38,42 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2LOh6Te9BKXeIsblCEs6yFp9ucR" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WHL/code/Hello-world&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.whl.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day5">
-    <configuration name="Day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.leetcode.Day3" />
+  <component name="RunManager" selected="Application.com.whl.interview.Demo01">
+    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.interview.CombinationSum" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.leetcode.*" />
+          <option name="PATTERN" value="com.whl.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.leetcode.Day5" />
-      <module name="Hello-world" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.nowcoder.Test" />
+      <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.leetcode.*" />
+          <option name="PATTERN" value="com.whl.nowcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +94,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.leetcode.demo" />
-      <module name="Hello-world" />
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.nowcoder.Test02" />
+      <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.leetcode.*" />
+          <option name="PATTERN" value="com.whl.nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.whl.interview.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.interview.Demo01" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.whl.leetcode.slidewindow.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.leetcode.slidewindow.Demo01" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.leetcode.slidewindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,9 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day5" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.Day3" />
+        <item itemvalue="Application.com.whl.interview.Demo01" />
+        <item itemvalue="Application.CombinationSum" />
+        <item itemvalue="Application.com.whl.leetcode.slidewindow.Demo01" />
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +155,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -127,58 +177,46 @@
       <workItem from="1677222804849" duration="671000" />
       <workItem from="1677494781680" duration="15000" />
       <workItem from="1678243585803" duration="14709000" />
-      <workItem from="1678773207783" duration="3577000" />
+      <workItem from="1678773207783" duration="4490000" />
+      <workItem from="1679207785413" duration="3000" />
+      <workItem from="1679463294058" duration="15000" />
+      <workItem from="1679463323254" duration="4407000" />
+      <workItem from="1679806429672" duration="628000" />
+      <workItem from="1679986764993" duration="652000" />
+      <workItem from="1684999543180" duration="1936000" />
+      <workItem from="1715658321442" duration="1232000" />
+      <workItem from="1716948047612" duration="8988000" />
+      <workItem from="1716959873082" duration="1981000" />
+      <workItem from="1716962671793" duration="30000" />
+      <workItem from="1717034774152" duration="2497000" />
+      <workItem from="1717063209393" duration="1319000" />
+      <workItem from="1717120881783" duration="7831000" />
+      <workItem from="1717381552863" duration="3073000" />
+      <workItem from="1723777962262" duration="7848000" />
+      <workItem from="1725256328937" duration="561000" />
+      <workItem from="1725256906083" duration="5332000" />
+      <workItem from="1725519079359" duration="11792000" />
+      <workItem from="1725602497341" duration="5460000" />
+      <workItem from="1725762223430" duration="627000" />
+      <workItem from="1725765572713" duration="8328000" />
     </task>
+    <task id="LOCAL-00001" summary="算法">
+      <option name="closed" value="true" />
+      <created>1723778023791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723778023791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1678411379940">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1678411379940" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1678411379940">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1678411379940" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1678411379940">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1678411379940" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1678411379940">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1678411379940" />
-    <state width="1398" height="230" key="GridCell.Tab.1.bottom" timestamp="1678411379940">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1678411379940" />
-    <state width="1398" height="230" key="GridCell.Tab.1.center" timestamp="1678411379940">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1678411379940" />
-    <state width="1398" height="230" key="GridCell.Tab.1.left" timestamp="1678411379940">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1678411379940" />
-    <state width="1398" height="230" key="GridCell.Tab.1.right" timestamp="1678411379940">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1678411379940" />
-    <state x="201" y="5" key="SettingsEditor" timestamp="1676967950479">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="201" y="5" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1676967950479" />
-    <state x="404" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1678773211896">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="404" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1678773211896" />
-    <state x="516" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1678346125465">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="516" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1678346125465" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -187,6 +225,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/whl/leetcode/Day3.java</url>
           <line>43</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whl/leetcode/slidewindow/Demo01.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whl/leetcode/slidewindow/Demo01.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,7 +1,5 @@
 package com.whl.leetcode;
 
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * 作者：whl
