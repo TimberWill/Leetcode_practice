@@ -70,5 +70,6 @@ public class Demo01 {
                 list.remove(list.size()-1);//从后往前 逐步替换元素
             }
         }
+
     }
 }
