@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="bugfix_12">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/interview/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="od算法练习-密码验证">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +58,39 @@
       <recent name="com.whl.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.whl.interview.Demo01">
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.interview.CombinationSum" />
+  <component name="RunManager" selected="Application.Demo03">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.array.Demo01" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.interview.*" />
+          <option name="PATTERN" value="com.whl.od.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo02" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.od.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo03" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.od.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,39 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.whl.interview.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.interview.Demo01" />
-      <module name="code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.whl.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.whl.leetcode.slidewindow.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.leetcode.slidewindow.Demo01" />
-      <module name="code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.whl.leetcode.slidewindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo03" />
+        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.Demo02" />
         <item itemvalue="Application.Test02" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.CombinationSum" />
-        <item itemvalue="Application.com.whl.leetcode.slidewindow.Demo01" />
-        <item itemvalue="Application.com.whl.interview.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +190,8 @@
       <workItem from="1725602497341" duration="5460000" />
       <workItem from="1725762223430" duration="627000" />
       <workItem from="1725765572713" duration="8328000" />
-      <workItem from="1726124895469" duration="15428000" />
+      <workItem from="1726124895469" duration="53713000" />
+      <workItem from="1727149080536" duration="9497000" />
     </task>
     <task id="LOCAL-00001" summary="算法">
       <option name="closed" value="true" />
@@ -209,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726055613817</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="od 字符串算法练习">
+      <option name="closed" value="true" />
+      <created>1726411963230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726411963230</updated>
+    </task>
+    <task id="LOCAL-00004" summary="od算法练习-密码验证">
+      <option name="closed" value="true" />
+      <created>1726988140217</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726988140217</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +251,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法" />
     <MESSAGE value="bugfix_12" />
-    <option name="LAST_COMMIT_MESSAGE" value="bugfix_12" />
+    <MESSAGE value="od 字符串算法练习" />
+    <MESSAGE value="od算法练习-密码验证" />
+    <option name="LAST_COMMIT_MESSAGE" value="od算法练习-密码验证" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
