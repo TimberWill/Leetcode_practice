@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="od算法练习-密码验证">
+    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="od算法练习-字符串-简单错误记录">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/hash/Demo01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -58,7 +59,7 @@
       <recent name="com.whl.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo03">
+  <component name="RunManager" selected="Application.com.whl.od.hash.Demo01">
     <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.whl.od.array.Demo01" />
       <module name="code" />
@@ -98,19 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.nowcoder.Test" />
-      <module name="code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.whl.nowcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.whl.nowcoder.Test02" />
       <module name="code" />
@@ -124,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.whl.od.hash.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.hash.Demo01" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.od.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.whl.od.hash.Demo01" />
         <item itemvalue="Application.Demo03" />
         <item itemvalue="Application.Demo01" />
         <item itemvalue="Application.Demo02" />
         <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +192,8 @@
       <workItem from="1725762223430" duration="627000" />
       <workItem from="1725765572713" duration="8328000" />
       <workItem from="1726124895469" duration="53713000" />
-      <workItem from="1727149080536" duration="9497000" />
+      <workItem from="1727149080536" duration="10762000" />
+      <workItem from="1727578025093" duration="11685000" />
     </task>
     <task id="LOCAL-00001" summary="算法">
       <option name="closed" value="true" />
@@ -225,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726988140217</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="od算法练习-字符串-简单错误记录">
+      <option name="closed" value="true" />
+      <created>1727172158311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727172158311</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,13 +257,23 @@
         </entry>
       </map>
     </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法" />
     <MESSAGE value="bugfix_12" />
     <MESSAGE value="od 字符串算法练习" />
     <MESSAGE value="od算法练习-密码验证" />
-    <option name="LAST_COMMIT_MESSAGE" value="od算法练习-密码验证" />
+    <MESSAGE value="od算法练习-字符串-简单错误记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="od算法练习-字符串-简单错误记录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
