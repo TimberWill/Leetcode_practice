@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="od算法练习-HJ26-字符串排序">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/search/Demo01.java" afterDir="false" />
+    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="od算法练习-HJ27-查找兄弟单词">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +59,9 @@
       <recent name="com.whl.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.whl.od.search.Demo01">
-    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo03" />
+  <component name="RunManager" selected="Application.Demo05">
+    <configuration name="Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo05" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo05" />
         <item itemvalue="Application.com.whl.od.search.Demo01" />
         <item itemvalue="Application.com.whl.od.search.Demo02" />
         <item itemvalue="Application.Dong" />
         <item itemvalue="Application.com.whl.od.hash.Demo01" />
-        <item itemvalue="Application.Demo03" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,8 @@
       <workItem from="1727578025093" duration="12874000" />
       <workItem from="1727600664222" duration="662000" />
       <workItem from="1727661850179" duration="7365000" />
-      <workItem from="1727759548765" duration="22068000" />
+      <workItem from="1727759548765" duration="22848000" />
+      <workItem from="1729736829344" duration="4255000" />
     </task>
     <task id="LOCAL-00001" summary="算法">
       <option name="closed" value="true" />
@@ -254,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727684421664</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="od算法练习-HJ27-查找兄弟单词">
+      <option name="closed" value="true" />
+      <created>1727852456330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727852456331</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +295,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature_2340911_GtTrain" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -306,7 +315,8 @@
     <MESSAGE value="od算法练习-字符串-简单错误记录" />
     <MESSAGE value="od算法练习-HJ25-数据分类处理" />
     <MESSAGE value="od算法练习-HJ26-字符串排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="od算法练习-HJ26-字符串排序" />
+    <MESSAGE value="od算法练习-HJ27-查找兄弟单词" />
+    <option name="LAST_COMMIT_MESSAGE" value="od算法练习-HJ27-查找兄弟单词" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -320,16 +330,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo04.java</url>
           <line>49</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/whl/od/search/Dong.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/whl/od/search/Dong.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/whl/od/search/Demo01.java</url>
