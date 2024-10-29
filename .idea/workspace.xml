@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="od算法练习-HJ27-查找兄弟单词">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo05.java" afterDir="false" />
+    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="od算法练习-HJ29-字符串加解密">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
       <recent name="com.whl.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo05">
+  <component name="RunManager" selected="Application.Demo06">
     <configuration name="Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo05" />
       <module name="code" />
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.od.search.Dong" />
+    <configuration name="Demo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo06" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.od.search.*" />
+          <option name="PATTERN" value="com.whl.od.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.whl.od.hash.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.od.hash.Demo01" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.Test" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.od.hash.*" />
+          <option name="PATTERN" value="com.whl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo06" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Demo05" />
         <item itemvalue="Application.com.whl.od.search.Demo01" />
         <item itemvalue="Application.com.whl.od.search.Demo02" />
-        <item itemvalue="Application.Dong" />
-        <item itemvalue="Application.com.whl.od.hash.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +198,9 @@
       <workItem from="1727600664222" duration="662000" />
       <workItem from="1727661850179" duration="7365000" />
       <workItem from="1727759548765" duration="22848000" />
-      <workItem from="1729736829344" duration="4255000" />
+      <workItem from="1729736829344" duration="4297000" />
+      <workItem from="1729822967198" duration="1187000" />
+      <workItem from="1730182323199" duration="7125000" />
     </task>
     <task id="LOCAL-00001" summary="算法">
       <option name="closed" value="true" />
@@ -263,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727852456331</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="od算法练习-HJ29-字符串加解密">
+      <option name="closed" value="true" />
+      <created>1729741137173</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729741137173</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +327,8 @@
     <MESSAGE value="od算法练习-HJ25-数据分类处理" />
     <MESSAGE value="od算法练习-HJ26-字符串排序" />
     <MESSAGE value="od算法练习-HJ27-查找兄弟单词" />
-    <option name="LAST_COMMIT_MESSAGE" value="od算法练习-HJ27-查找兄弟单词" />
+    <MESSAGE value="od算法练习-HJ29-字符串加解密" />
+    <option name="LAST_COMMIT_MESSAGE" value="od算法练习-HJ29-字符串加解密" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
