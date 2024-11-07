@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="od算法练习-HJ30-字符合并处理">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/leetcode/dualindex/Demo01.java" afterDir="false" />
+    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="leetcode算法练习-双指针-三数之和">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/ShowMeBug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +61,13 @@
       <recent name="com.whl.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo01">
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.leetcode.dualindex.Demo01" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.interview.BinarySearch" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.leetcode.dualindex.*" />
+          <option name="PATTERN" value="com.whl.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo05" />
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.leetcode.dualindex.Demo01" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.od.String.*" />
+          <option name="PATTERN" value="com.whl.leetcode.dualindex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.Test" />
+    <configuration name="Demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo07" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.*" />
+          <option name="PATTERN" value="com.whl.od.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.whl.od.search.Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.od.search.Demo01" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.Test" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.od.search.*" />
+          <option name="PATTERN" value="com.whl.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Demo07" />
         <item itemvalue="Application.Demo01" />
         <item itemvalue="Application.Demo06" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Demo05" />
-        <item itemvalue="Application.com.whl.od.search.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +203,11 @@
       <workItem from="1729822967198" duration="1187000" />
       <workItem from="1730182323199" duration="7218000" />
       <workItem from="1730256485321" duration="6200000" />
+      <workItem from="1730268408246" duration="44000" />
+      <workItem from="1730433295516" duration="6011000" />
+      <workItem from="1730695887758" duration="4128000" />
+      <workItem from="1730878191157" duration="516000" />
+      <workItem from="1730949794106" duration="2039000" />
     </task>
     <task id="LOCAL-00001" summary="算法">
       <option name="closed" value="true" />
@@ -282,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730189613346</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="leetcode算法练习-双指针-三数之和">
+      <option name="closed" value="true" />
+      <created>1730268447131</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730268447131</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +352,8 @@
     <MESSAGE value="od算法练习-HJ27-查找兄弟单词" />
     <MESSAGE value="od算法练习-HJ29-字符串加解密" />
     <MESSAGE value="od算法练习-HJ30-字符合并处理" />
-    <option name="LAST_COMMIT_MESSAGE" value="od算法练习-HJ30-字符合并处理" />
+    <MESSAGE value="leetcode算法练习-双指针-三数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode算法练习-双指针-三数之和" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
