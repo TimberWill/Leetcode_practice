@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="leetcode算法练习-双指针-三数之和">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/ShowMeBug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo07.java" afterDir="false" />
+    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="华为od算法——ip地址转换">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/array/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/whl/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/whl/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,15 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Enviroment/apache-maven-3.9.5-bin" />
+        <option name="userSettingsFile" value="D:\Enviroment\apache-maven-3.9.5-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -53,6 +62,10 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3908046&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -61,7 +74,7 @@
       <recent name="com.whl.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.Demo02">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.whl.interview.BinarySearch" />
       <module name="code" />
@@ -88,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo06" />
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.array.Demo02" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.whl.od.String.*" />
+          <option name="PATTERN" value="com.whl.od.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Demo07" />
         <item itemvalue="Application.Demo01" />
-        <item itemvalue="Application.Demo06" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +220,11 @@
       <workItem from="1730433295516" duration="6011000" />
       <workItem from="1730695887758" duration="4128000" />
       <workItem from="1730878191157" duration="516000" />
-      <workItem from="1730949794106" duration="2039000" />
+      <workItem from="1730949794106" duration="2347000" />
+      <workItem from="1731151019477" duration="617000" />
+      <workItem from="1731305822808" duration="1991000" />
+      <workItem from="1731388202938" duration="2603000" />
+      <workItem from="1732071300476" duration="3331000" />
     </task>
     <task id="LOCAL-00001" summary="算法">
       <option name="closed" value="true" />
@@ -297,7 +314,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730268447131</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="面试题目——线程安全库存、手写二分查找">
+      <option name="closed" value="true" />
+      <created>1730953351973</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730953351973</updated>
+    </task>
+    <task id="LOCAL-00013" summary="华为od算法——ip地址转换">
+      <option name="closed" value="true" />
+      <created>1730953504404</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730953504404</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +386,9 @@
     <MESSAGE value="od算法练习-HJ29-字符串加解密" />
     <MESSAGE value="od算法练习-HJ30-字符合并处理" />
     <MESSAGE value="leetcode算法练习-双指针-三数之和" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode算法练习-双指针-三数之和" />
+    <MESSAGE value="面试题目——线程安全库存、手写二分查找" />
+    <MESSAGE value="华为od算法——ip地址转换" />
+    <option name="LAST_COMMIT_MESSAGE" value="华为od算法——ip地址转换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
