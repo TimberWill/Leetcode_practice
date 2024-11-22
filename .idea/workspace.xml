@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="华为od算法——ip地址转换">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/array/Demo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+    <list default="true" id="aac028d3-51f3-45d0-adcf-eda1e5137776" name="Default Changelist" comment="华为od算法HJ03——明明的随机数">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/whl/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/whl/Test.java" afterDir="false" />
     </list>
@@ -50,50 +49,37 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WHL/code/Hello-world&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3908046&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WHL/advanced-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.3908046",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.whl.leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo02">
+  <component name="RunManager" selected="Application.Demo08">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.whl.interview.BinarySearch" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.whl.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.whl.leetcode.dualindex.Demo01" />
-      <module name="code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.whl.leetcode.dualindex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,6 +113,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.od.String.Demo08" />
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.od.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.whl.Test" />
       <module name="code" />
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo08" />
         <item itemvalue="Application.Demo02" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Demo07" />
-        <item itemvalue="Application.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +224,7 @@
       <workItem from="1731305822808" duration="1991000" />
       <workItem from="1731388202938" duration="2603000" />
       <workItem from="1732071300476" duration="3331000" />
+      <workItem from="1732157967993" duration="13730000" />
     </task>
     <task id="LOCAL-00001" summary="算法">
       <option name="closed" value="true" />
@@ -330,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730953504404</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="华为od算法HJ03——明明的随机数">
+      <option name="closed" value="true" />
+      <created>1732158069015</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732158069016</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,7 +396,8 @@
     <MESSAGE value="leetcode算法练习-双指针-三数之和" />
     <MESSAGE value="面试题目——线程安全库存、手写二分查找" />
     <MESSAGE value="华为od算法——ip地址转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="华为od算法——ip地址转换" />
+    <MESSAGE value="华为od算法HJ03——明明的随机数" />
+    <option name="LAST_COMMIT_MESSAGE" value="华为od算法HJ03——明明的随机数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -407,6 +416,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/whl/od/search/Demo01.java</url>
           <line>48</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whl/od/String/Demo08.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
